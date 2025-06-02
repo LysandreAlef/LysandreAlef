@@ -2,14 +2,6 @@
 
 🌵 Olá, eu sou o Alef, mas para além disso, sou estudante de **Engenharia de Telecomunicações** na UFC e desenvolvedor em constante evolução. No corre entre códigos, arte e impacto social, misturo lógica com criatividade pra construir soluções que realmente importam.
 
-## 🚀 Tecnologias que eu estou aprendendo:
-
-- ⚙️ **Python** (projetos acadêmicos, automações e testes com PyTest)
-- 🧠 **Java Orientado a Objetos** (trilha Oracle Next Education)
-- 💡 **HTML | CSS | JavaScript** (Ciclo 02 do Programa Capacita Brasil)
-- 🔌 **Circuitos Digitais** com Flip-Flop, portas lógicas e montagem em protoboard
-- 📊 **Looker Studio** e análise de dados pra projetos sociais
-
 ## 🛠️ Projetos que eu já encarei:
 
 - 👨‍🏫 Documentação e gestão no **Projeto RAITec**
@@ -186,14 +178,3 @@ Sou um entusiasta da tecnologia, com raízes na periferia e uma veia artística 
   />
 
 </p>
-
-
----
-
-## 📫 Você também pode me encontrar aqui:
-
-- [GitHub](https://github.com/LysandreAlef)
-- [LinkedIn](https://www.linkedin.com/in/lysandre-alef-64a83a295/)
-- Email: lysandre.campos@alu.ufc.br
-
----
